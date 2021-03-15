@@ -1,0 +1,10 @@
+#ifndef PHYSICS_H
+#define PHYSICS_H
+
+#define M_PROTON 1.673E-27
+#define M_ELECTRON 9.109E-31
+#define E_CHARGE 1.602E-19
+#define H_ 1.054571818E-34
+#define INV_4PIE0 8987551785
+
+#endif //PHYSICS_H_INCLUDED
